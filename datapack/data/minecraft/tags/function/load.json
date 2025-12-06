@@ -1,0 +1,6 @@
+{
+  "values":[
+    "dbarr_obcompass:load",
+    "dbarr_obcompass:set_compass"
+]
+}

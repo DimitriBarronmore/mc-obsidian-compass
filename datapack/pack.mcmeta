@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Adds an obsidian compass which points to the relative location of your last used nether portal.",
+    "min_format": 88,
+    "max_format": 88
+  }
+}

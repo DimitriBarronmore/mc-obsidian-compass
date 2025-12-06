@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "enter portal": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:nether_portal"
+      }
+    }
+  },
+  "rewards": {
+    "function": "dbarr_obcompass:enter_portal"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "Optional assets for the Obsidian Compass datapack.",
+    "pack_format": 69,
+    "min_format": 69,
+    "max_format": 75
+  }
+}

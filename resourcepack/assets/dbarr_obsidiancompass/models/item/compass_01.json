@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dbarr_obsidiancompass:item/compass_01"
+  }
+}
