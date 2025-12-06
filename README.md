@@ -19,8 +19,12 @@ Ensure you've got the datapack installed. If you'd like the fancy textures, ensu
 
 Craft an obsidian compass using four obsidian and one blaze powder.
 
+<img width="300px" src="https://github.com/DimitriBarronmore/mc-obsidian-compass/blob/master/images/crafting_recipe.png" alt="How to craft an obsidian compass."/>
+
 ### Step 2:
 
 Enter any nether portal, from either the nether or the overworld. Ensure the portal you're going into is the portal you would like to stay where it is.
+
+<img width="300px" src="https://github.com/DimitriBarronmore/mc-obsidian-compass/blob/master/images/compass_pointing.png" alt="A player in the nether holding an obsidian compass."/>
 
 An obsidian compass in your inventory will always point towards the coordinates of the last portal you left through, translated relative to the dimension you're currently in. Simply follow the compass to the spot it's pointing and build your linked portal.
