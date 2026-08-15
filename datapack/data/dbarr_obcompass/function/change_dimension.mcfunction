@@ -6,3 +6,5 @@ scoreboard players operation @s dbarr_obcompass_last_pos_z = @s dbarr_obcompass_
 
 execute if dimension minecraft:the_nether run scoreboard players set @s dbarr_obcompass_last_dimension 1
 execute if dimension minecraft:overworld run scoreboard players set @s dbarr_obcompass_last_dimension 0
+
+say changed_dimension

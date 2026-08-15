@@ -9,4 +9,5 @@ execute if dimension minecraft:the_nether run scoreboard players operation @s db
 scoreboard players operation @s dbarr_obcompass_pos_x /= #num100 dbarr_obcompass_pos_x
 scoreboard players operation @s dbarr_obcompass_pos_z /= #num100 dbarr_obcompass_pos_x
 
-schedule function dbarr_obcompass:remove_portal_enter_ach 5t append
+advancement revoke @s only dbarr_obcompass:enterportal
+#schedule function dbarr_obcompass:remove_portal_enter_ach 5t append
